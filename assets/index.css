@@ -1,3 +1,14 @@
 body {
+    background-color: hsl(233, 47%, 7%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+    .card {
+        color: white;
+    }
 
+footer {
+    margin-top: 50px;
 }
