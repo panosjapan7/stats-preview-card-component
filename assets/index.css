@@ -1,10 +1,5 @@
 body {
     background-color: hsl(233, 47%, 7%);
-    /* height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
 }
 main {
     background-color: hsl(233, 47%, 7%);
@@ -31,7 +26,6 @@ main {
             }
                 h1 {
                     font-family: 'Inter', sans-serif;
-                    /* font-family: 'Lexend Deca', sans-serif; */
                     font-size: 36.5px;
                     color: hsl(0, 0%, 100%);
                     width: 450px;
@@ -43,7 +37,6 @@ main {
                     }
                 .description {
                     font-family: 'Inter', sans-serif;
-                    /* font-family: 'Lexend Deca', sans-serif; */
                     font-weight: 400;
                     font-size: 15px;
                     color: hsla(0, 0%, 100%, 0.75);
@@ -55,7 +48,6 @@ main {
                 display: flex;
                 gap: 60px;
                 margin-top: 90px;
-                /* margin-bottom: 30px; */
                 margin-left: 70px;
             }
                 .companies {
